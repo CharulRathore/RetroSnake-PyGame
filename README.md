@@ -1,1 +1,1 @@
-# Python Retro Snake Game with Pygame
+# Retro Snake Game with Pygame
